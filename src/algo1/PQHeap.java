@@ -19,8 +19,10 @@ public class PQHeap implements PQ{
     public static void main(String[] args) {
         // TODO code application logic here
     }
-
     
+    public PQHeap(int maxElms){
+        
+    }
     
     @Override
     public Element extractMin() {
